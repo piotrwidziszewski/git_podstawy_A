@@ -1,3 +1,10 @@
+
+body{background-color:yellow}
+
+h1 {
+    color: red;
+}
+
 p {
     color: blue;
 }
@@ -16,3 +23,8 @@ button:hover {
     background-color: rgb(71, 202, 169);
     color: white;
 }
+
+    font-size: 2rem;
+}
+
+
