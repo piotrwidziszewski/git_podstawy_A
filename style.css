@@ -1,17 +1,18 @@
 
-body{background-color:yellow}
+body { 
+    background-color: yellow;
+}
 
 h1 {
     color: red;
 }
 
 p {
+    font-size: 2rem;
     color: blue;
     text-transform: uppercase;
     border-radius: solid 5px red;
 }
-}
-
 
 button {
     border: 2px solid rgb(71, 202, 169);
@@ -26,8 +27,3 @@ button:hover {
     background-color: rgb(71, 202, 169);
     color: white;
 }
-
-    font-size: 2rem;
-}
-
-
