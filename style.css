@@ -1,3 +1,5 @@
 p {
     color: blue;
+    text-transform: uppercase;
+    border-radius: solid 5px red;
 }
